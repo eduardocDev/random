@@ -27,7 +27,7 @@
     </style>
 </head>
 <body>
-    <p>Generating a random number between 1 and 100</p>
+    <p>Generating a random number between 0 and 100</p>
     <section class="number">
     <?php
         echo rand(0, 100);
